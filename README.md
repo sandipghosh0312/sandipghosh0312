@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Sandip</h1>
 <h3 align="center">A passionate tech aficionado</h3>
 
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHBFyEi2vc0Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726315914853?e=1740009600&v=beta&t=CM-5GJ7ehkC8ZgdaotWwD4OdRaXtj1zuFktk8F55k5A" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//in/sandipghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sandipghosh" height="30" width="40" /></a>
