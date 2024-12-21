@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sandip</h1>
 <h3 align="center">A passionate tech aficionado</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipghosh0312&label=Profile%20views&color=0e75b6&style=flat" alt="sandipghosh0312" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//in/sandipghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sandipghosh" height="30" width="40" /></a>
@@ -21,10 +19,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sandipghosh0312&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sandipghosh0312&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
