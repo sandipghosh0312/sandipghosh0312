@@ -1,5 +1,4 @@
 <h1 align="center">Hi there👋, I'm Sandip</h1>
-<h3 align="center">A passionate tech aficionado</h3>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHBFyEi2vc0Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726315914853?e=1740009600&v=beta&t=CM-5GJ7ehkC8ZgdaotWwD4OdRaXtj1zuFktk8F55k5A" />
 
