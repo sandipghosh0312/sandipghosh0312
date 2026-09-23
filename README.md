@@ -1,18 +1,218 @@
-<h1 align="center">Hi there👋, I'm Sandip</h1>
+<div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHBFyEi2vc0Iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726315914853?e=1740009600&v=beta&t=CM-5GJ7ehkC8ZgdaotWwD4OdRaXtj1zuFktk8F55k5A" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=1000"
+  width="100%"
+/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//in/sandipghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sandipghosh" height="30" width="40" /></a>
-<a href="https://instagram.com/sandipghosh.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandipghosh.official" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+# S A N D I P &nbsp; G H O S H
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### software · AI · product
 
----
-[![](https://visitcount.itsvg.in/api?id=sandipghosh0312&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+<a href="https://sandipghosh.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=header"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+## About Me
+
+I like building things I don't fully understand yet.
+
+My interests sit somewhere between **software engineering, artificial intelligence, and product design**. I enjoy going beneath abstractions, learning how systems actually work, and turning ideas into products that feel considered rather than merely functional.
+
+Currently spending most of my time building, breaking, and learning.
+
+<br/>
+
+<div align="center">
+
+## Selected Work
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+  src="https://placehold.co/1000x560/0D0D0D/FFFFFF?text=Perspective+AI"
+  width="100%"
+/>
+
+### Perspective AI
+
+</div>
+
+An AI platform built around the idea of
+exposing people to perspectives they might
+not otherwise encounter.
+
+<br/>
+
+<div align="center">
+
+`Next.js` · `Gemini` · `Clerk`
+
+<br/><br/>
+
+<a href="https://github.com/sandipghosh0312">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+  src="https://placehold.co/1000x560/F1F1F1/111111?text=Bookies"
+  width="100%"
+/>
+
+### Bookies
+
+</div>
+
+An AI reading companion designed to make
+books and long-form documents interactive.
+
+<br/>
+
+<div align="center">
+
+`Next.js` · `MongoDB` · `Gemini` · `Vapi`
+
+<br/><br/>
+
+<a href="https://github.com/sandipghosh0312">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+  src="https://placehold.co/1000x560/181818/FFFFFF?text=EchoMeet"
+  width="100%"
+/>
+
+### EchoMeet
+
+</div>
+
+A meeting intelligence system exploring how
+conversations can be transformed into
+structured, useful information.
+
+<br/>
+
+<div align="center">
+
+`AI` · `Next.js` · `TypeScript`
+
+<br/><br/>
+
+<a href="https://github.com/sandipghosh0312">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="middle">
+
+<div align="center">
+
+### Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,threejs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,github,vercel&theme=dark" />
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<div align="center">
+
+&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sandipghosh0312&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=777777&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555"
+  height="165"
+/>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=90&section=footer"
+  width="100%"
+/>
+
+<br/>
+
+<samp>make something worth opening.</samp>
+
+<br/><br/>
+
+</div>
