@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sandipghosh0312">
   <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
