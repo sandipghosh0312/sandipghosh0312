@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://linkedin.com/in/sandip-ghosh-947311357]">
   <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
